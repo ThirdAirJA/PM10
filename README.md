@@ -1,4 +1,4 @@
-# PM10
+# BOREAIR
 Centralina Meteo con rilevazione PM10
 
 Progetto di Alternanza Scuola Lavoro della classe 3A IISS C.E. Gadda - Langhirano
